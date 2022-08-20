@@ -1,0 +1,23 @@
+{
+  "name": "love-quotes-api",
+  "version": "1.0.0",
+  "description": "This is my API for Love quotes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asterisku/Love-quotes-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asterisku/Love-quotes-API/issues"
+  },
+  "homepage": "https://github.com/Asterisku/Love-quotes-API#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
